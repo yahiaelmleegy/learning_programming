@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600618244 source:c:\users\ascom\desktop\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+
